@@ -18,9 +18,9 @@ other implementations are GNU regex.c and Henry Spencer's regex
 library.
 
 %package devel
-Summary: POSIX regexp functions, developers library
-Group: Development/Libraries
-Requires: %{name} = %{version}-%{release}
+Summary:	POSIX regexp functions, developers library
+Group:		Development/C
+Requires:	%{name} = %{version}-%{release}
 
 %description devel
 Rx is, among other things, an implementation of the interface
