@@ -9,7 +9,7 @@ Source0:	ftp://ftp.gnu.org/gnu/rx/rx-%{version}.tar.bz2
 Patch0:		rx-1.5-shared.patch
 Patch1:		rx-1.5-texinfo.patch
 Patch2:		librx-1.5-libdir64.patch
-BuildRequires:	texinfo
+BuildRequires:	texinfo libtool
 
 %description
 Rx is, among other things, an implementation of the interface
