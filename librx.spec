@@ -4,7 +4,7 @@ Version:	1.5
 Release:	%mkrel 1
 License:	GPLv2+
 URL:		http://www.gnu.org/software/rx/rx.html
-Group:		Applications/Text
+Group:		Text tools
 Source0:	ftp://ftp.gnu.org/gnu/rx/rx-%{version}.tar.bz2
 Patch0:		rx-1.5-shared.patch
 Patch1:		rx-1.5-texinfo.patch
