@@ -5,6 +5,7 @@ Release:	%mkrel 1
 License:	GPLv2+
 URL:		http://www.gnu.org/software/rx/rx.html
 Group:		Text tools
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Source0:	ftp://ftp.gnu.org/gnu/rx/rx-%{version}.tar.bz2
 Patch0:		rx-1.5-shared.patch
 Patch1:		rx-1.5-texinfo.patch
