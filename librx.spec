@@ -1,7 +1,7 @@
 Summary:	POSIX regexp functions
 Name:		librx
 Version:	1.5
-Release:	%mkrel 3
+Release:	%mkrel 4
 License:	GPLv2+
 URL:		http://www.gnu.org/software/rx/rx.html
 Group:		Text tools
