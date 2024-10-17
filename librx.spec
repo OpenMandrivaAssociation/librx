@@ -3,7 +3,7 @@ Name:		librx
 Version:	1.5
 Release:	%mkrel 4
 License:	GPLv2+
-URL:		http://www.gnu.org/software/rx/rx.html
+URL:		https://www.gnu.org/software/rx/rx.html
 Group:		Text tools
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Source0:	ftp://ftp.gnu.org/gnu/rx/rx-%{version}.tar.bz2
