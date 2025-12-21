@@ -10,6 +10,11 @@ Source0:	ftp://ftp.gnu.org/gnu/rx/rx-%{version}.tar.bz2
 Patch0:		rx-1.5-shared.patch
 Patch1:		rx-1.5-texinfo.patch
 Patch2:		librx-1.5-libdir64.patch
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	texinfo libtool
 
 %description
